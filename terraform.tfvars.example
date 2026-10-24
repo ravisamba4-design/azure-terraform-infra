@@ -1,0 +1,3 @@
+subscription_id      = "<your-subscription-id>"
+admin_ssh_public_key = "ssh-ed25519 AAAA..."
+alert_email          = "you@example.com"
